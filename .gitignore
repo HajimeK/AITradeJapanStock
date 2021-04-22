@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Japan Stock/nikkei255.csv
+Japan Stock/BreakoutStrategy/eod-quotemedia.csv
+Japan Stock/data/
+Japan Stock/zipline_root/
+Japan Stock/nikkei255from.csv
