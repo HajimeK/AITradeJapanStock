@@ -133,7 +133,4 @@ Japan Stock/data/
 Japan Stock/zipline_root/
 Japan Stock/nikkei255from.csv
 Japan Stock/credential.txt
-.vscode/settings.json
-.vscode/settings.json
-.vscode/settings.json
-.vscode/settings.json
+./.vscode/settings.json
